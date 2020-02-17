@@ -1,4 +1,4 @@
-# datastorm
+# datastorm - Team Optimizeprime ds1045
 datastorm competition results
 
 day1 - Ada Boost method
